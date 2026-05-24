@@ -1,0 +1,12 @@
+{
+  "materia": "Producciones Digitales",
+  "emoji": "🗄️",
+  "introduccion": "En Producciones Digitales trabajamos con SQL Server y bases de datos. Vimos desde los fundamentos de SQL Server, los conceptos básicos de bases de datos (tablas, llaves primarias y foráneas), comandos SQL básicos (CREATE, INSERT, SELECT, UPDATE) hasta conceptos avanzados como integridad referencial y normalización. Aquí tienes toda la teoría y los ejercicios prácticos.",
+  "titulo_lista": "🗄️ Lo que vas a encontrar",
+  "items": [
+    "Fundamentos de SQL Server and SSMS.",
+    "Conceptos de base de datos y comandos SQL.",
+    "Ejercicios resueltos para crear tablas, insertar datos, consultar y modificar."
+  ],
+  "conclusion": "Los ejercicios deben copiarse en el cuaderno y ejecutarse en SQL Server Management Studio en la PC."
+}

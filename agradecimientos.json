@@ -1,0 +1,18 @@
+{
+  "titulo": "Agradecimientos",
+  "subtitulo": "Esta página fue hecha pensando en ustedes, mis compañeros de 12 BTPI.",
+  "bloques": [
+    {
+      "titulo": "A toda la clase",
+      "descripcion": "Gracias por compartir apuntes, dudas y respuestas durante todo el parcial. Esta página existe gracias al esfuerzo colectivo."
+    },
+    {
+      "titulo": "A los profesores",
+      "descripcion": "Gracias por las clases, los materiales y la paciencia."
+    },
+    {
+      "titulo": "Cualquier corrección o aporte",
+      "descripcion": "Escribirme al WhatsApp del grupo. Esta herramienta puede seguir creciendo con la ayuda de todos."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "titulo": "Contacto",
+  "subtitulo": "Escríbeme por cualquiera de estos medios para dudas, sugerencias o ayuda con un ejercicio.",
+  "medios": [
+    {
+      "nombre": "WhatsApp",
+      "detalle": "+504 9655-6433",
+      "enlace": "https://wa.me/50496556433",
+      "icono": "whatsapp-icon.png"
+    },
+    {
+      "nombre": "Instagram",
+      "detalle": "@randypinedaig",
+      "enlace": "https://www.instagram.com/randypinedaig",
+      "icono": "instagram-icon.png"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "materia": "Programación II",
+  "emoji": "💻",
+  "introduccion": "En Programación II vimos tres grandes bloques: los fundamentos del desarrollo web (CSS, JavaScript, Bootstrap, Tailwind, Frameworks, PHP, XAMPP, editores y extensiones de VS Code), una serie de ejercicios prácticos de maquetación y lógica (del Ejercicio 0 al 13), y un ejercicio adicional de inicio de sesión. Aquí está toda la teoría tal cual la copiamos en clase, junto con el código completo de cada ejercicio.",
+  "titulo_lista": "💻 Lo que vas a encontrar",
+  "items": [
+    "Teoría completa: CSS, JavaScript, Bootstrap, Tailwind, frameworks, PHP, XAMPP, editores de código y las top 10 extensiones de VS Code.",
+    "14 ejercicios prácticos con código HTML, CSS y JavaScript (formularios, menús, tarjetas, operaciones matemáticas, validación de login, etc.).",
+    "Botones para copiar el código fácilmente (cada lenguaje por separado dentro de la pestaña Trabajos)."
+  ],
+  "conclusion": "Esta materia es práctica y todo el código está listo para que lo copies, lo pruebes en tu computadora y lo personalices (cambia nombres, colores, etc.)."
+}

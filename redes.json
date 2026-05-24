@@ -1,0 +1,12 @@
+{
+  "materia": "Redes Informáticas",
+  "emoji": "🌐",
+  "introduccion": "En Redes Informáticas estudiamos los elementos de la comunicación en redes (emisor, receptor, canal, protocolos, dispositivos), las IP públicas y privadas, el control remoto de Windows y AnyDesk. También realizamos un trabajo práctico de instalación de impresora en red (con diagrama y pasos) y respondimos un cuestionario de 60 preguntas. Aquí tienes toda la teoría y los trabajos.",
+  "titulo_lista": "🌐 Lo que vas a encontrar",
+  "items": [
+    "Teoría completa: elementos de comunicación, IP públicas/privadas, control remoto, AnyDesk.",
+    "Trabajo: instalación de impresora en red (diagrama y 10 pasos).",
+    "Trabajo: prueba de redes con 60 preguntas y respuestas."
+  ],
+  "conclusion": "Copia la teoría y los trabajos en tu cuaderno. Para las preguntas, responde tal como se indica."
+}

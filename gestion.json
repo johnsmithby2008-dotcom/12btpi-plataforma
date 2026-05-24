@@ -1,0 +1,11 @@
+{
+  "materia": "Gestión Empresarial",
+  "emoji": "📊",
+  "introduccion": "En Gestión Empresarial aplicamos conceptos de mercadotecnia a proyectos informáticos. Dividimos el contenido en dos partes: primero, el análisis de proyectos (entorno interno/externo, selección de idea, FODA, factibilidad) y segundo, la mercadotecnia aplicada (conceptos básicos, tipos de mercado, instrumentos de recolección de datos, hojas de cálculo, herramientas digitales, perfil del cliente, estructura de informe). Aquí tienes toda la teoría.",
+  "titulo_lista": "📊 Lo que vas a encontrar",
+  "items": [
+    "Proyectos informáticos: análisis, selección de idea, FODA, factibilidad.",
+    "Mercadotecnia aplicada a la informática: conceptos, tipos de mercado, encuestas, tabulación, gráficos, redes sociales, perfil del cliente, informe de estudio."
+  ],
+  "conclusion": "Esta materia es teórica y no tiene trabajos prácticos en este parcial."
+}

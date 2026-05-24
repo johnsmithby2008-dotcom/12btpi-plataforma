@@ -1,0 +1,12 @@
+{
+  "materia": "Mantenimiento y Reparación",
+  "emoji": "🛠️",
+  "introduccion": "En Mantenimiento y Reparación vimos tres bloques grandes: los periféricos y componentes de la PC, los tipos de mantenimiento (preventivo, correctivo, predictivo, proactivo y evolutivo) y las normas de seguridad del laboratorio. Aquí está toda la teoría tal cual la copiamos en clase.",
+  "titulo_lista": "🛠️ Lo que vas a encontrar",
+  "items": [
+    "Clasificación de periféricos (entrada, salida, E/S y almacenamiento) y todos los componentes internos.",
+    "Los 5 tipos de mantenimiento con sus objetivos y actividades.",
+    "Las normas de ingreso y de limpieza del laboratorio informático."
+  ],
+  "conclusion": "Esta materia es 100% teórica este parcial: no hay trabajos prácticos asignados, así que la pestaña Trabajos aparece vacía."
+}

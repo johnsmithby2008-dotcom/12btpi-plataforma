@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma Modular - 12 BTPI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <header class="top-navbar" id="topNavbar">
+        <button class="menu-toggle" id="menuToggle" aria-label="Controlar barra lateral">
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="search-container">
+            <i class="fas fa-search search-icon"></i>
+            <input type="text" id="globalSearch" placeholder="Buscar por título (ej. PHP, Ejercicio 1)...">
+        </div>
+        <div class="top-date-badge">
+            <i class="far fa-calendar-alt"></i> <span id="currentDate">23/05/2026</span>
+        </div>
+    </header>
+
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <span>Menú Escolar</span>
+            <button class="close-sidebar" id="closeSidebar"><i class="fas fa-times"></i></button>
+        </div>
+
+        <nav class="menu-section">
+            <ul class="nav-list">
+                <li class="nav-item active" data-target="home" id="nav-home-btn">
+                    <i class="fas fa-home"></i> Inicio
+                </li>
+            </ul>
+        </nav>
+
+        <div class="menu-section">
+            <h3>Materias</h3>
+            <ul class="nav-list" id="sidebar-materias-list">
+                </ul>
+        </div>
+
+        <div class="menu-section">
+            <ul class="nav-list">
+                <li class="nav-item" data-target="contacto"><i class="fas fa-envelope"></i> Contacto</li>
+                <li class="nav-item" data-target="agradecimientos"><i class="fas fa-heart"></i> Agradecimientos</li>
+            </ul>
+        </div>
+
+        <div class="sidebar-buttons">
+            <button class="btn btn-progress" id="btnProgress" disabled>
+                <i class="fas fa-tasks"></i> Mi progreso
+            </button>
+            <button class="btn btn-theme" id="themeToggle">
+                <span id="themeIcon">🌙</span> <span id="themeText">Modo Oscuro</span>
+            </button>
+        </div>
+    </aside>
+
+    <main class="main-wrapper" id="mainWrapper">
+        <div id="content-area">
+            </div>
+        
+        <footer class="main-footer">
+            <p>Creado por <strong id="footer-author">Randy</strong> 💙</p>
+            <p class="subfooter" id="footer-text">Hecho con ❤️ para 12 BTPI · II Parcial · 2026</p>
+        </footer>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

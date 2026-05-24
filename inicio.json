@@ -1,0 +1,49 @@
+{
+  "bienvenida": {
+    "badge": "⚡ II Parcial · 12 BTPI",
+    "titulo": "Hola, soy Randy.",
+    "mensaje": "Hice esta página para que tengamos en un solo lugar todo el contenido que copiamos durante este parcial: teoría, trabajos prácticos, guías y códigos listos para pegar. La idea es que les sirva para repasar y practicar para los exámenes sin tener que andar buscando cosas dispersas."
+  },
+  "uso_plataforma": [
+    { "emoji": "🌓", "titulo": "Modo claro/oscuro", "descripcion": "botón con sol/luna en la barra lateral." },
+    { "emoji": "🔎", "titulo": "Búsqueda global", "descripcion": "escribe el título exacto del tema o ejercicio (ej. 'PHP' o 'Ejercicio 7'). Los resultados muestran etiquetas de materia y sección; al hacer clic, te lleva directo al contenido." },
+    { "emoji": "▼", "titulo": "Acordeones", "descripcion": "en las pestañas Teoría y Trabajos, haz clic en la flecha de cada título para desplegar el contenido." },
+    { "emoji": "📋", "titulo": "Botones 'Copiar'", "descripcion": "cada bloque de código tiene su botón que copia solo el código limpio. Pégalo en tu editor, personalízalo (ej. cambia 'Randy' por tu nombre) y guárdalo." },
+    { "emoji": "✅", "titulo": "Mi progreso", "descripcion": "botón en la barra lateral (solo se activa al entrar a una materia). Te guía paso a paso por el orden recomendado por el docente." }
+  ],
+  "que_encontraran": [
+    "Todo el contenido <strong>copiable</strong>: códigos, definiciones, enunciados, guías y diagramas.",
+    "Una pestaña <strong>General, Teoría, Trabajos y Examen</strong> por cada materia.",
+    "Buscador global por título exacto en la parte superior.",
+    "Botón <strong>Copiar código</strong> en Programación II y Producciones Digitales, con etiquetas por tipo de archivo (HTML, CSS, JS, SQL).",
+    "<strong>Tema de color propio</strong> por cada materia, integrado con modo claro y oscuro."
+  ],
+  "lo_que_no_esta": {
+    "titulo": "Lo que NO está aquí",
+    "mensaje": "Los trabajos que requieren <strong>estilo personal</strong> (infografías, presentaciones de Canva, informes, ensayos, diseños libres) no se incluyen, porque cada quien debe hacerlo a su manera. Para esos casos, igual pueden escribirme y los apoyo."
+  },
+  "avisos": {
+    "compensacion": "Cuando termine el parcial, la página se mantendrá <strong>una semana más sin actualizar</strong>, para que quienes deban contenido, no hayan asistido a un examen o estén en revisión puedan acceder al material. Después de esa semana, reinicio todo con el contenido del nuevo parcial.",
+    "ausencia": "Si yo falto a clase un día, la página <strong>no podrá actualizarse ese día</strong>. Les pido apoyo: escríbanme por WhatsApp y cuéntenme lo que hicieron en clase para subirlo lo antes posible."
+  },
+  "resumen_materias": [
+    { "id": "programacion2", "nombre": "Programación II", "icono": "Programación_II-icon.png", "trabajos": 14, "estado": "Teoría disponible", "clase_estado": "disponible" },
+    { "id": "mantenimiento", "nombre": "Mantenimiento y Reparación", "icono": "Mantenimiento_y_Reparación-icon.png", "trabajos": 0, "estado": "Teoría disponible", "clase_estado": "disponible" },
+    { "id": "producciones", "nombre": "Producciones Digitales", "icono": "Producciones_Digitales-icon.png", "trabajos": 2, "estado": "Teoría disponible", "clase_estado": "disponible" },
+    { "id": "disenoweb", "nombre": "Diseño Web", "icono": "Diseño_Web-icon.png", "trabajos": 0, "estado": "Próximamente", "clase_estado": "proximamente" },
+    { "id": "redes", "nombre": "Redes Informáticas", "icono": "Redes_Informáticas-icon.png", "trabajos": 2, "estado": "Teoría disponible", "clase_estado": "disponible" },
+    { "id": "gestion", "nombre": "Gestión Empresarial", "icono": "Gestión_Empresarial-icon.png", "trabajos": 0, "estado": "Teoría disponible", "clase_estado": "disponible" }
+  ],
+  "combinaciones_hibridas": [
+    { "iconos": ["html-icon.png"], "significado": "Solo HTML (Estructura pura sin estilos ni lógica)" },
+    { "iconos": ["html-icon.png", "css-icon.png"], "significado": "HTML + CSS interno (etiqueta &lt;style&gt;)" },
+    { "iconos": ["html-icon.png", "js-icon.png"], "significado": "HTML + JavaScript interno (etiqueta &lt;script&gt;)" },
+    { "iconos": ["html-icon.png", "css-icon.png", "js-icon.png"], "significado": "HTML + CSS + JS internos (Todo en uno)" },
+    { "iconos": ["html-icon.png", "bootstrap-icon.png"], "significado": "Maquetación con framework Bootstrap" },
+    { "iconos": ["html-icon.png", "js-icon.png", "bootstrap-icon.png"], "significado": "Proyecto completo con Bootstrap y JS" }
+  ],
+  "creditos": {
+    "creador": "Randy",
+    "pie_pagina": "Hecho con ❤️ para 12 BTPI · II Parcial · 2026"
+  }
+}
